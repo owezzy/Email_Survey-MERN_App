@@ -1,4 +1,2 @@
-server/node_modulesc
-.idea/.name
-.idea/vagrant.xml
+node_modulesc
 dev.js
